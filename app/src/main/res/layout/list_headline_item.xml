@@ -39,8 +39,7 @@
             android:layout_height="wrap_content"
             android:textSize="20sp"
             android:textColor="#f2f2f2"
-            android:layout_marginEnd="12dp"
-            android:text="Boeing Deidcates 100 million to victims of 737 crashes" />
+            android:layout_marginEnd="12dp"/>
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -54,16 +53,14 @@
                 android:layout_height="wrap_content"
                 android:textSize="12sp"
                 android:textColor="#bababa"
-                android:layout_marginEnd="12dp"
-                android:text="CNN" />
+                android:layout_marginEnd="12dp"/>
 
             <TextView
                 android:id="@+id/dateTextView"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textSize="12sp"
-                android:textColor="#AFAFAF"
-                android:text="19-04-2020" />
+                android:textColor="#AFAFAF"/>
         </LinearLayout>
     </LinearLayout>
 </FrameLayout>

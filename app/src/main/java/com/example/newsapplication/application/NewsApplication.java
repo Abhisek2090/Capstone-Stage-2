@@ -21,7 +21,6 @@ public class NewsApplication extends MultiDexApplication {
         CrashlyticsCore crashlyticsCore = new CrashlyticsCore.Builder()
                 .build();
 
-        Fabric.with(this, new Crashlytics.Builder().core(crashlyticsCore).build());
     }
 
 
