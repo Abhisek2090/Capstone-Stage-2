@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialKeyguardLayout="@layout/newswidget"
+    android:initialLayout="@layout/newswidget"
+    android:minHeight="240dp"
+    android:minWidth="220dp"
+    android:previewImage="@layout/newswidget"
+    android:resizeMode="horizontal|vertical"
+    android:updatePeriodMillis="86400000"
+    android:widgetCategory="home_screen"></appwidget-provider>

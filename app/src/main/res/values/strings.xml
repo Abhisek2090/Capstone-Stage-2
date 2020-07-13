@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NewsApplication</string>
+    <string name="device_not_connected_msg">Device is not connected to the internet</string>
+    <string name="apiKey">dd46f83634ed4aab9cfe86c3ee6052a5</string>
+    <string name="headlines">HEADLINES</string>
+    <string name="save">SAVE</string>
+    <string name="favourites">FAVOURITES</string>
+    <string name="add_to_favourites">Add To Favourites</string>
+    <string name="favourite">Favourite</string>
+    <string name="open_app">Open App</string>
+    <string name="newtwork_error">Network Error</string>
+    <string name="see_favourites">SEE FAVOURITES</string>
+</resources>
